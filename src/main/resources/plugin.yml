@@ -1,0 +1,5 @@
+name: NexusStaff
+version: '${project.version}'
+main: cc.synkdev.nexusStaff.NexusStaff
+api-version: '1.13'
+authors: [ Synk ]
